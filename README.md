@@ -1,7 +1,9 @@
 # Toast-Generator #
 by Kristen Merritt
-Version: 0.1
+Version: 0.2
 
 ## What is Toast-Generator? ##
 
-It generates toast.
+Generates code for the Toast CSS grid based on user input.
+
+https://daneden.github.io/Toast/
